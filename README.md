@@ -46,7 +46,7 @@ The app requires the following permissions:
 - `READ_MEDIA_AUDIO` (Android 13+)
 - `READ_EXTERNAL_STORAGE` (Android 12 and below)
 - `FOREGROUND_SERVICE`
-- `POST_NOTIFICATIONS`
+- `POST_NOTIFICATIONS`  
 
 ## Contributing
 Feel free to open issues and pull requests for any improvements.
