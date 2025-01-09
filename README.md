@@ -21,6 +21,7 @@ A modern Android music player application with a clean interface and rich featur
 - [ ] Equalizer 
 - [ ] Album art display
 - [ ] Shuffle and repeat modes
+- [ ] Auto sleep timer
 
 ## Technical Details
 
