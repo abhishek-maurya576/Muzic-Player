@@ -23,6 +23,7 @@ A modern Android music player application with a clean interface and rich featur
 - [ ] Shuffle and repeat modes
 - [ ] Auto sleep timer
 
+
 ## Technical Details
 
 ### Requirements
